@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Lanier
+[linkedin]: https://linkedin.com/in/lanier-brown-88243b245
