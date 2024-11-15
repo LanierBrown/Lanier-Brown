@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/Lanier
