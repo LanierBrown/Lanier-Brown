@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lanier, an <a href="https://linkedin.com/in/LanierBrown">IT Professional</a>☺</h1>
+<h1>Hi, I'm Lanier, an <a href="https://linkedin.com/in/lanier-brown-88243b245">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
