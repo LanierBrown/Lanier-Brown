@@ -7,7 +7,7 @@
  
   - [osTicket: Ticket Lifecycle Examples](https://github.com/LanierBrown/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/LanierBrown/Configuring-Active-Directory-Within-Azure-VM-s)
+  - [Creating A Virtual Machine](https://github.com/LanierBrown/Configuring-Active-Directory-Within-Azure-VM-s)
 
 - <b>Active Directory</b>
   - [Active Directory: Scenario Simulation](https://github.com/joshmadakorcc/azure-network-protocols)
