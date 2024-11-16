@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-
- 
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/LanierBrown/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Creating A Virtual Machine](https://github.com/LanierBrown/Configuring-Active-Directory-Within-Azure-VM-s)
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/LanierBrown/osTicket-Ticket-Lifecycle-Examples)
 
 - <b>Active Directory</b>
   - [Active Directory: Scenario Simulation](https://github.com/joshmadakorcc/azure-network-protocols)
