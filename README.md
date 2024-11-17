@@ -10,7 +10,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/LanierBrown/osTicket-Ticket-Lifecycle-Examples)
 
 - <b>Active Directory</b>
-  - [Active Directory: Scenario Simulation](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Active Directory: Scenario Simulation](https://github.com/LanierBrown/Active-Directory-Simulation-Scenarios)
 
 
 <h2>Connect with me:</h2>
