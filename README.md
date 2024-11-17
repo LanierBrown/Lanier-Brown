@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating A Virtual Machine](https://github.com/LanierBrown/Configuring-Active-Directory-Within-Azure-VM-s)
+  - [Loging Into Virtual Machine (Remote Desktop)](https://github.com/LanierBrown/Virtual-Machine-LogIn-Remote-Desktop))
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/LanierBrown/osTicket-Ticket-Lifecycle-Examples)
